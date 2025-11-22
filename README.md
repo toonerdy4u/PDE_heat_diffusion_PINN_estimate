@@ -27,7 +27,7 @@ The model is also extended to **learn the diffusivity parameter** $\alpha$, maki
 
 - Reduced prediction error by 99.5% compared to a baseline neural network
 
-- Produced smooth, stable temperature fields** even with noise in the data
+- Produced smooth, stable temperature fields, even with noise in the data
 
 These results highlight the advantage of physics-informed training over traditional data-only neural networks.
 
