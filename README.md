@@ -25,7 +25,7 @@ The model is also extended to **learn the diffusivity parameter** $\alpha$, maki
 - Recovered the thermal diffusivity parameter with ~99.8% accuracy
   (learned $\alpha = 0.197777$ vs true $\alpha = 0.2$)
 
-- Reduced prediction error by 99.58% compared to a baseline neural network
+- Reduced prediction error by 99.5% compared to a baseline neural network
 
 - Produced smooth, stable temperature fields** even with noise in the data
 
