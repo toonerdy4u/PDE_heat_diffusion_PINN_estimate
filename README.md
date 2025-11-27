@@ -37,6 +37,6 @@ This work was completed as part of my graduate research in Applied Mathematics a
 The overall project structure was inspired by example PINN implementations previously shared with me by my advisor.
 All code and model development in this repository are my own original work.
 
-If you use or build upon this code in your own work, please cite this repository or credit Anabel Camarena.
+
 
 
